@@ -1,3 +1,7 @@
+Sugar & Spice recipe app
+
+Vercel app- https://recipe-management-app-ptnp.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
